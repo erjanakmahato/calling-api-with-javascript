@@ -1,0 +1,16 @@
+D:\Visual Studio\callApiWithJAVASCRIPT\bin\Debug\netcoreapp2.1\callApiWithJAVASCRIPT.deps.json
+D:\Visual Studio\callApiWithJAVASCRIPT\bin\Debug\netcoreapp2.1\callApiWithJAVASCRIPT.runtimeconfig.json
+D:\Visual Studio\callApiWithJAVASCRIPT\bin\Debug\netcoreapp2.1\callApiWithJAVASCRIPT.runtimeconfig.dev.json
+D:\Visual Studio\callApiWithJAVASCRIPT\bin\Debug\netcoreapp2.1\callApiWithJAVASCRIPT.dll
+D:\Visual Studio\callApiWithJAVASCRIPT\obj\Debug\netcoreapp2.1\callApiWithJAVASCRIPT.csprojAssemblyReference.cache
+D:\Visual Studio\callApiWithJAVASCRIPT\obj\Debug\netcoreapp2.1\callApiWithJAVASCRIPT.RazorAssemblyInfo.cache
+D:\Visual Studio\callApiWithJAVASCRIPT\obj\Debug\netcoreapp2.1\callApiWithJAVASCRIPT.RazorAssemblyInfo.cs
+D:\Visual Studio\callApiWithJAVASCRIPT\obj\Debug\netcoreapp2.1\callApiWithJAVASCRIPT.AssemblyInfoInputs.cache
+D:\Visual Studio\callApiWithJAVASCRIPT\obj\Debug\netcoreapp2.1\callApiWithJAVASCRIPT.AssemblyInfo.cs
+D:\Visual Studio\callApiWithJAVASCRIPT\obj\Debug\netcoreapp2.1\callApiWithJAVASCRIPT.RazorTargetAssemblyInfo.cache
+D:\Visual Studio\callApiWithJAVASCRIPT\bin\Debug\netcoreapp2.1\callApiWithJAVASCRIPT.pdb
+D:\Visual Studio\callApiWithJAVASCRIPT\obj\Debug\netcoreapp2.1\callApiWithJAVASCRIPT.dll
+D:\Visual Studio\callApiWithJAVASCRIPT\obj\Debug\netcoreapp2.1\callApiWithJAVASCRIPT.pdb
+D:\Visual Studio\callApiWithJAVASCRIPT\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Visual Studio\callApiWithJAVASCRIPT\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Visual Studio\callApiWithJAVASCRIPT\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
